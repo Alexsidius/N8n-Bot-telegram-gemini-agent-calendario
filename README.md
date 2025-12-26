@@ -47,6 +47,7 @@ AI Agent (interpretação + decisão)
 Google Calendar (Consultar / Agendar / Deletar)
    ↓
 Resposta ao usuário no Telegram
+```
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -62,7 +63,7 @@ LangChain Nodes (n8n) – Implementação de AI Agent
 
 JavaScript – Normalização de entradas
 
-▶️ Como Utilizar
+## ▶️ Como Utilizar
 1. Importar o Workflow
 
 Abra o n8n
@@ -84,7 +85,7 @@ Google Calendar OAuth2
 Google Gemini (PaLM) API
 
 
-### 🔒 Nenhuma credencial, token ou dado sensível é versionado neste repositório.
+## 🔒 Nenhuma credencial, token ou dado sensível é versionado neste repositório.
 
 3. Ativar o Workflow
 
@@ -106,7 +107,7 @@ Datas convertidas para formato ISO com timezone America/Sao_Paulo
 
 Uso exclusivo de dados reais do Google Calendar (sem memória fictícia)
 
-### 🔐 Segurança e Boas Práticas
+## 🔐 Segurança e Boas Práticas
 
 Nenhuma credencial é exposta no JSON
 
@@ -116,7 +117,7 @@ Separação clara entre lógica, infraestrutura e segredos
 
 Workflow importável e reutilizável em qualquer instância do n8n
 
-🔮 Possíveis Melhorias Futuras
+## 🔮 Possíveis Melhorias Futuras
 
 Suporte a múltiplos usuários e calendários
 
