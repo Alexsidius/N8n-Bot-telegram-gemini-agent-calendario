@@ -84,9 +84,6 @@ Google Calendar OAuth2
 
 Google Gemini (PaLM) API
 
-
-## 🔒 Nenhuma credencial, token ou dado sensível é versionado neste repositório.
-
 3. Ativar o Workflow
 
 Ative o workflow no n8n
@@ -128,3 +125,7 @@ Integração com Outlook Calendar
 Persistência em banco de dados
 
 Interface administrativa para gestão de horários
+
+## 👨‍💻 Autor
+### Alexandro Ferreira
+Projeto desenvolvido para fins de estudo e demonstração técnica, com foco em automação, integração de APIs e IA aplicada.
