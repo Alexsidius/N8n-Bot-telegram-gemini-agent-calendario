@@ -47,7 +47,7 @@ AI Agent (interpretação + decisão)
    ↓
 Google Calendar (Consultar / Agendar / Deletar)
    ↓
-Resposta ao usuário no Telegram
+Envio de email  com convite de confirmação e resposta ao usuário no Telegram
 ```
 
 ## 🛠️ Tecnologias Utilizadas
