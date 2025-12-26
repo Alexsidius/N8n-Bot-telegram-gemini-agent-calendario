@@ -1,5 +1,5 @@
 # n8n-telegram-calendar-agent
-
+![Workflow n8n](imagens/wf_bot_telegram.png.png)
 Automação de agendamento de compromissos via **Telegram**, utilizando **IA (Google Gemini)** e integração com **Google Calendar**, construída no **n8n**.
 
 Este projeto demonstra o uso de **AI Agents**, **integração entre APIs** e **regras de negócio bem definidas** para resolver um problema real de forma automatizada.
